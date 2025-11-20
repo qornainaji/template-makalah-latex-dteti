@@ -44,14 +44,10 @@ A.~Akdeniz, ``Exploring the impact of self-regulated learning intervention on st
 B.~J. Zimmerman and A.~R. Moylan, ``Self-regulation: Where metacognition and motivation intersect,'' in \emph{Handbook of Metacognition in Education}, D.~J. Hacker, J.~Dunlosky, and A.~C. Graesser, Eds.\hskip 1em plus 0.5em minus 0.4em\relax New York, NY: Routledge, 2009, pp. 299--315.
 
 \bibitem{10.3389/feduc.2024.1418297}
-\BIBentryALTinterwordspacing
-F.~Nyman, ``“you’re not learning skills—you’re just realizing what you can do”: a preliminary study of self-regulation in higher education,'' \emph{Frontiers in Education}, vol. Volume 9 - 2024, 2024. [Online]. Available: \url{https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1418297}
-\BIBentrySTDinterwordspacing
+F.~Nyman, ``“you’re not learning skills—you’re just realizing what you can do”: a preliminary study of self-regulation in higher education,'' \emph{Frontiers in Education}, vol. Volume 9 - 2024, 2024.
 
 \bibitem{10.3389/fpsyg.2022.1027266}
-\BIBentryALTinterwordspacing
-L.~F. Yang, Y.~Liu, and Z.~Xu, ``Examining the effects of self-regulated learning-based teacher feedback on english-as-a-foreign-language learners’ self-regulated writing strategies and writing performance,'' \emph{Frontiers in Psychology}, vol. Volume 13 - 2022, 2022. [Online]. Available: \url{https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.1027266}
-\BIBentrySTDinterwordspacing
+L.~F. Yang, Y.~Liu, and Z.~Xu, ``Examining the effects of self-regulated learning-based teacher feedback on english-as-a-foreign-language learners’ self-regulated writing strategies and writing performance,'' \emph{Frontiers in Psychology}, vol. Volume 13 - 2022, 2022.
 
 \bibitem{Bock14032024}
 \BIBentryALTinterwordspacing
@@ -103,5 +99,39 @@ L.~Ouyang, J.~Wu, X.~Jiang, D.~Almeida, C.~L. Wainwright, P.~Mishkin, C.~Zhang, 
 \BIBentryALTinterwordspacing
 H.~Li and B.~Ma, ``Design of ai-powered tool for self-regulation support in programming education,'' 2025. [Online]. Available: \url{https://arxiv.org/abs/2504.03068}
 \BIBentrySTDinterwordspacing
+
+\bibitem{groq_pricing}
+\BIBentryALTinterwordspacing
+``{Groq API Pricing},'' {Groq}. [Online]. Available: \url{https://groq.com/pricing}
+\BIBentrySTDinterwordspacing
+
+\bibitem{steinert2024harnessing}
+\BIBentryALTinterwordspacing
+S.~Steinert, K.~E. Avila, S.~Ruzika, J.~Kuhn, and S.~K{\"u}chemann, ``Harnessing large language models to develop research-based learning assistants for formative feedback,'' \emph{Smart Learning Environments}, vol.~11, no.~1, p.~62, 2024. [Online]. Available: \url{https://slejournal.springeropen.com/articles/10.1186/s40561-024-00354-1}
+\BIBentrySTDinterwordspacing
+
+\bibitem{zhang2020bertscore}
+T.~Zhang, V.~Kishore, F.~Wu, K.~Q. Weinberger, and Y.~Artzi, ``Bertscore: Evaluating text generation with bert,'' in \emph{International Conference on Learning Representations (ICLR)}, 2020, also available as arXiv:1904.09675.
+
+\bibitem{yuan2021bartscore}
+W.~Yuan, G.~Neubig, and P.~Liu, ``Bartscore: Evaluating generated text as text generation,'' in \emph{Advances in Neural Information Processing Systems (NeurIPS)}, vol.~34, 2021, pp. 27\,263--27\,277.
+
+\bibitem{koutcheme2024openfeedback}
+C.~Koutch\'eme, N.~Dainese, S.~Sarsa, A.~Hellas, J.~Leinonen, and P.~Denny, ``Open source language models can provide feedback: Evaluating llms' ability to help students using gpt-4-as-a-judge,'' 2024.
+
+\bibitem{DeciRyan1985IntrinsicMotivation}
+E.~L. Deci and R.~M. Ryan, \emph{Intrinsic Motivation and Self-Determination in Human Behavior}.\hskip 1em plus 0.5em minus 0.4em\relax New York: Plenum, 1985.
+
+\bibitem{Fredrickson2001BroadenBuild}
+B.~L. Fredrickson, ``The role of positive emotions in positive psychology: The broaden-and-build theory of positive emotions,'' \emph{American Psychologist}, vol.~56, no.~3, pp. 218--226, 2001.
+
+\bibitem{HattieTimperley2007PowerOfFeedback}
+J.~Hattie and H.~Timperley, ``The power of feedback,'' \emph{Review of Educational Research}, vol.~77, no.~1, pp. 81--112, 2007.
+
+\bibitem{tang2025fewshot}
+Y.~Tang, D.~Tuncel, C.~Koerner, and T.~Runkler, ``{The Few-shot Dilemma: Over-prompting Large Language Models},'' \emph{arXiv preprint arXiv:2509.13196}, Sep 2025.
+
+\bibitem{pawlik2025choice}
+L.~Pawlik, ``How the choice of llm and prompt engineering affects chatbot effectiveness,'' \emph{Electronics}, vol.~14, no.~5, 2 2025.
 
 \end{thebibliography}
