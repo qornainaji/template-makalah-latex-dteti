@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex main"] 1763629986.90513 "main.aux" "main.bbl" "main" 1763629989.00242 0
+["bibtex main"] 1763629986.90513 "main.aux" "main.bbl" "main" 1763641059.38185 0
   "./references.bib" 1763626473.07415 26493 818b807f91018eb96d05c653ee9fae20 ""
   "/usr/local/texlive/2025/texmf-dist/bibtex/bst/ieeetran/IEEEtran.bst" 1440712899 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "main.aux" 1763629988.64974 6199 223611cdad2c57d3bf2cbcd4b14b2588 "pdflatex"
+  "main.aux" 1763641059.03638 6199 223611cdad2c57d3bf2cbcd4b14b2588 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1763629987.05407 "/Users/qornainaji/Documents/Data Qornain/Materi_Semester/Semester 8/Skripsi/Makalah/template-makalah-latex-dteti/main.tex" "main.pdf" "main" 1763629989.00263 0
-  "/Users/qornainaji/Documents/Data Qornain/Materi_Semester/Semester 8/Skripsi/Makalah/template-makalah-latex-dteti/main.tex" 1763629984.57094 69270 ab8bb2d0d5a2e7252449202a2b2e81e8 ""
+["pdflatex"] 1763641057.31218 "/Users/qornainaji/Documents/Data Qornain/Materi_Semester/Semester 8/Skripsi/Makalah/template-makalah-latex-dteti/main.tex" "main.pdf" "main" 1763641059.38206 0
+  "/Users/qornainaji/Documents/Data Qornain/Materi_Semester/Semester 8/Skripsi/Makalah/template-makalah-latex-dteti/main.tex" 1763641057.05011 69297 5ef84b4e1ca37d9cd30aa0350caf890b ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm" 1136768653 960 379cc0019370a9e0208a0a3f949f847a ""
@@ -207,9 +207,9 @@
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
   "IEEEtran.cls" 1763529867.71329 281957 5b2e4fa15b0f7eabb840ebf67df4c0f7 ""
   "Indikator_ringkas.png" 1763624403.73227 158150 8514eb63da5b3bedcc032b6b2398a17c ""
-  "main.aux" 1763629988.64974 6199 223611cdad2c57d3bf2cbcd4b14b2588 "pdflatex"
+  "main.aux" 1763641059.03638 6199 223611cdad2c57d3bf2cbcd4b14b2588 "pdflatex"
   "main.bbl" 1763629987.05042 10022 31dd8e62f176bc8434009f29e0f440ce "bibtex main"
-  "main.tex" 1763629984.57094 69270 ab8bb2d0d5a2e7252449202a2b2e81e8 ""
+  "main.tex" 1763641057.05011 69297 5ef84b4e1ca37d9cd30aa0350caf890b ""
   (generated)
   "main.aux"
   "main.log"
